@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="71px" viewBox="0 0 66 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>logo footer</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage-BLACK" transform="translate(-295.000000, -8814.000000)">
+            <g id="logo-footer" transform="translate(298.000000, 8817.000000)">
+                <g id="Group" transform="translate(38.500000, 32.000000) rotate(90.000000) translate(-38.500000, -32.000000) translate(7.000000, -6.000000)">
+                    <text id="S" font-family="Cousine-Bold, Cousine" font-size="86" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5" y="72">S</tspan>
+                    </text>
+                    <line x1="63" y1="75.5" x2="0.5" y2="75.5" id="Line" stroke="#8F00FF" stroke-width="8" stroke-linecap="square"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

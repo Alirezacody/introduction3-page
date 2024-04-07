@@ -1,0 +1,38 @@
+@media screen and (min-width:200px) and (max-width:900px) {
+  .label-text , .prpule3 , .prpule4{
+    margin-left: 0% !important;
+    width:80% !important;
+    margin-left: 30px !important;
+    height:auto !important;
+  }
+
+  .container-image{
+    display: none !important;
+  }
+
+  .container-icon-media{
+    display: none !important;
+  }
+
+  .digital{
+    text-align: center !important;
+    /* margin-top: 100px !important; */
+  }
+
+  .d-section{
+    display: none !important;
+  }
+
+  .triangle{
+    display: none !important;
+  }
+
+  .container-menu{
+    display:none !important;
+  }
+
+  .menu-close{
+    display: block !important;
+    margin-right:430px !important;
+  }
+}
